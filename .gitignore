@@ -1,0 +1,5 @@
+# In real life, exclude the env file from source control
+# .env
+
+__pycache__/
+.DS_Store
